@@ -1,5 +1,5 @@
 ### EX NO : 06
-### DATE  : 02.05.2022
+### DATE  : 29.04.2022
 # <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
 ## Aim:
    To implement multi layer artificial neural network using back propagation algorithm.
@@ -32,6 +32,8 @@ b.	For the hidden units.
 4.	Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights. 
 
 </br>
+</br>
+</br> 
 </br>
 </br> 
 
@@ -102,8 +104,10 @@ print("Predicted Output: \n",output)
 ```
 
 ## Output:
-![Screenshot_641](https://user-images.githubusercontent.com/75235455/168618315-a0140218-8b6d-4dab-83f1-c9bba969805e.png)
+![exp_6_Neural](https://user-images.githubusercontent.com/77089743/168775474-d740fab8-0976-4913-ba98-b59d8eaf8a7e.PNG)
 
 
 ## Result:
 Thus the python program successully implemented multi layer artificial neural network using back propagation algorithm.
+
+
